@@ -1,0 +1,29 @@
+
+<div class="deck-overlay">
+  
+  <div class="step-deck" id="step-deck" style="letter-spacing: 0.5px">
+    <p class="prescrolly-fade-in">{{{ item.value.prescrolly }}}</p>
+    <div class="graphic-embed">
+      <include src="dininghallgraphic.html"></include>
+    </div>
+    <each loop="step in item.value.steps">
+      <div class="video-step">
+        <p>{{{ step }}}</p>
+      </div>
+      <if condition="loop.index === 0">
+        <div class="graphic-embed" id = bar>
+          <include src="barplot.html"></include>
+        </div>
+        <div class="graphic-embed" id="image">
+          <img src="../assets/lernerimage.jpg" id="lerner"width="100%"></include>
+          <p class="cover-caption"id="noletter">Photo by Yasmine Akki</p>
+        </div>
+      </if>
+    </div>
+    </each>
+  </div>
+  
+  
+  
+
+</div>
