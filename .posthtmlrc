@@ -11,10 +11,10 @@
             "type": "graphic",
             "value": {
               "asset": "deck.html",
-              "prescrolly": "The University <a href='https://undergrad.admissions.columbia.edu/life'>touts its ranking </a>as the “number one college for food.” However, the current ratio of students on Columbia meal plans to available seats in dining halls is roughly nine-to-one.",
+              "prescrolly": "The University <a href=\"https://undergrad.admissions.columbia.edu/life\">touts its ranking </a>as the “number one college for food.” However, the current ratio of students on Columbia meal plans to available seats in dining halls is roughly nine-to-one.",
               "steps": [
-                "About 60 percent of Literature Humanities and Contemporary Civilization instructors, whom the University values as “world-class” and “<a href='https://undergrad.admissions.columbia.edu/life/community/students-faculty'>leaders</a> in their fields,” are not full, associate, or assistant professors.",
-                "Lerner Hall, the <a href='https://spectatorarchive.library.columbia.edu/cgi-bin/columbia?a=d&d=cs19991104-01.2.5&e=-------en-20--1--txt-txIN-------'>multimillion-dollar</a> building branded as a student center, functions more as a “revenue-generating conference center.”",
+                "About 60 percent of Literature Humanities and Contemporary Civilization instructors, whom the University values as “world-class” and “<a href=\"https://undergrad.admissions.columbia.edu/life/community/students-faculty\">leaders</a> in their fields,” are not full, associate, or assistant professors.",
+                "Lerner Hall, the <a href=\"https://spectatorarchive.library.columbia.edu/cgi-bin/columbia?a=d&d=cs19991104-01.2.5&e=-------en-20--1--txt-txIN-------\">multimillion-dollar</a> building branded as a student center, functions more as a “revenue-generating conference center.”",
                 "These findings, obtained by Spectator, were included in a presentation to the Faculty of Arts and Sciences in February by a faculty group which characterizes the University as lacking the capacity to expand in the way some administrators hope."
               ]
             }
@@ -206,6 +206,14 @@
           {
             "type": "text",
             "value": "<i>Deputy News Editor Zachary Schermele can be contacted at </i><a href=\"mailto:zachary.schermele@columbiaspectator.com\"><i>zachary.schermele@columbiaspectator.com</i></a><i>. Follow him on Twitter </i><a href=\"https://twitter.com/ZachSchermele\"><i>@ZachSchermele</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Reporter Adina Cazacu-De Luca can be contacted at </i><a href=\"mailto:adina.cazacu.de.luca@columbiaspectator.com\"><i>adina.cazacu.de.luca@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/adidanic\"><i>@adidanic</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Deputy Editor Devon Campbell can be contacted at </i><a href=\"mailto:devon.campbell@columbiaspectator.com\"><i>devon.campbell@columbiaspectator.com</i></a><i>.</i>"
           },
           {
             "type": "text",
