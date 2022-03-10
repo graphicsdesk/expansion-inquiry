@@ -1,7 +1,7 @@
 import textBalancer from 'text-balancer';
 import initiatePage from './scripts/page';
 import { intersectTop } from './scripts/utils';
-
+import enterView from 'enter-view';
 import { spectate as spectateConfig } from '../package.json';
 
 // Main page initiation
@@ -39,3 +39,14 @@ export function hamburgerTrigger() {
 if (window.innerWidth <= 460) {
   textBalancer.balanceText('#headline, .deck, .image-caption-text');
 }
+// enterView({
+//   selector: true ? '.headline' : '.step-deck',
+//   offset: true ? 1 : 0.957,
+//   enter: () => {
+//     navbar.classList.remove('only-logo');
+//   },
+//   exit: () => {
+//     navbar.classList.remove('show-nav-links');
+//     navbar.classList.add('only-logo');
+//   },
+// });
