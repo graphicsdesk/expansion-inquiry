@@ -11,7 +11,7 @@
             "type": "graphic",
             "value": {
               "asset": "deck.html",
-              "prescrolly": "The University <a href=\"https://undergrad.admissions.columbia.edu/life\">touts its ranking </a>as the “number one college for food.” However, the current ratio of students on Columbia meal plans to available seats in dining halls is roughly nine-to-one.",
+              "prescrolly": "The University <a href=\"https://undergrad.admissions.columbia.edu/life\">touts its ranking </a>as the “number one college for food.” However, the current ratio of students on Columbia meal plans to available seats in dining halls is roughly nine-to-one.Harvard, Yale, and the University of Pennsylvania report ratios of two to one.",
               "steps": [
                 "About 60 percent of Literature Humanities and Contemporary Civilization instructors, whom the University values as “world-class” and “<a href=\"https://undergrad.admissions.columbia.edu/life/community/students-faculty\">leaders</a> in their fields,” are not full, associate, or assistant professors.",
                 "Lerner Hall, the <a href=\"https://spectatorarchive.library.columbia.edu/cgi-bin/columbia?a=d&d=cs19991104-01.2.5&e=-------en-20--1--txt-txIN-------\">multimillion-dollar</a> building branded as a student center, functions more as a “revenue-generating conference center.”",
@@ -99,11 +99,7 @@
           },
           {
             "type": "text",
-            "value": "“There is no more student activity space than there was in the older, inadequate building,” Lehecka said. “Think about how different student life would be if that whole building were for"
-          },
-          {
-            "type": "text",
-            "value": "students … It would change the undergraduate experience dramatically.”"
+            "value": "“There is no more student activity space than there was in the older, inadequate building,” Lehecka said. “Think about how different student life would be if that whole building were for  students. It would change the undergraduate experience dramatically.”"
           },
           {
             "type": "graphic",
